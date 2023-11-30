@@ -1,0 +1,14 @@
+C:\simplilearn\Day18\Assignment23\Assignment23\bin\Debug\net6.0\Assignment23.exe
+C:\simplilearn\Day18\Assignment23\Assignment23\bin\Debug\net6.0\Assignment23.deps.json
+C:\simplilearn\Day18\Assignment23\Assignment23\bin\Debug\net6.0\Assignment23.runtimeconfig.json
+C:\simplilearn\Day18\Assignment23\Assignment23\bin\Debug\net6.0\Assignment23.dll
+C:\simplilearn\Day18\Assignment23\Assignment23\bin\Debug\net6.0\Assignment23.pdb
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.GeneratedMSBuildEditorConfig.editorconfig
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.AssemblyInfoInputs.cache
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.AssemblyInfo.cs
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.dll
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\refint\Assignment23.dll
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.pdb
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\Assignment23.genruntimeconfig.cache
+C:\simplilearn\Day18\Assignment23\Assignment23\obj\Debug\net6.0\ref\Assignment23.dll
